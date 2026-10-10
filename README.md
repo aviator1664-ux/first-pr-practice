@@ -16,3 +16,11 @@ wordCount('one two  three');  // 3
 ## Requirements
 
 Node.js 18 or newer.
+
+## Running tests
+
+Tests use Node's built-in test runner, so there is nothing to install:
+
+```sh
+npm test
+```
