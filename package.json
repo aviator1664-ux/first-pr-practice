@@ -1,0 +1,9 @@
+{
+  "name": "first-pr-practice",
+  "version": "0.1.0",
+  "description": "Tiny string helpers, used to practice opening a first pull request.",
+  "main": "src/text.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
